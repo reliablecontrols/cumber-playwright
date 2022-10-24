@@ -1,5 +1,8 @@
 # cucumber-playwright
 
+Note: do not clone this repository. please go to the original writers repo.
+
+
 ![Test](https://github.com/Tallyb/cucumber-playwright/workflows/Test/badge.svg)
 
 A starter repo for writing E2E tests based on Cucumber(7) with Playwright using Typescript.
